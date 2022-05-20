@@ -1,2 +1,1 @@
-# printf
-our printf work me and Raymond
+all our work for printf
